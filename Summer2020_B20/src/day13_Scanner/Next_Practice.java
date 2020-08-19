@@ -10,7 +10,7 @@ public class Next_Practice {
         System.out.println("Enter your first name: ");
         String firstName = input.next();
 
-        input.next();
+        //input.next();
 
         System.out.println("Enter your last name: ");
         String lastName = input.next();

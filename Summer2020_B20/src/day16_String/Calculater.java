@@ -7,6 +7,7 @@ package day16_String;
             *
         output:
             200
+
             10
             2
             /

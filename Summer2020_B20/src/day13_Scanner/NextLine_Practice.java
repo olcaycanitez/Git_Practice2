@@ -13,7 +13,7 @@ public class NextLine_Practice {
         System.out.println("Enter your street name: ");
         String streetName = scan.nextLine();//Enter
 
-        System.out.println(buildingNumber+ " "+ streetName);
+        System.out.println(buildingNumber+" "+ streetName);
 
         scan.close();
         

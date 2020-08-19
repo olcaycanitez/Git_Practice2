@@ -18,7 +18,7 @@ public class subString_method {
         System.out.println("================================================");
 
         String sentence2 = "I like Movies and TV Series";
-        //                  123456789...................
+        //                  0123456789...................
         String word3 = sentence2.substring(7,13);
 
         System.out.println(word3);
